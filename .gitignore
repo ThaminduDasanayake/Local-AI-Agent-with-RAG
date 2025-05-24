@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+venv
+chroma_langchain_db
